@@ -1,0 +1,35 @@
+﻿  Calculator_Functions.c
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(102,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(101,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(117,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(116,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(139,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(138,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(147,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(146,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(196,13): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(210,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(211,32): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(211,25): warning C4024: 'CalculateDifference': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(218,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(219,36): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(219,29): warning C4024: 'CalculateMultiplication': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(226,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(227,30): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(227,23): warning C4024: 'CalculateDivision': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(234,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(235,29): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(235,22): warning C4024: 'CalculateAverage': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(242,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(243,29): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(243,22): warning C4024: 'getGreatestValue': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(250,31): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(250,24): warning C4024: 'DetermineValueState': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(309,35): warning C4047: 'function': 'double **' differs in levels of indirection from 'double *(*)[3]'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(309,27): warning C4024: 'ProcessMenu': different types for formal and actual parameter 2
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(309,51): warning C4047: 'function': 'bool *' differs in levels of indirection from 'bool **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(309,37): warning C4024: 'ProcessMenu': different types for formal and actual parameter 3
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(287,9): warning C4101: 'count': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(287,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(127): warning C4716: 'CalculateDivision': must return a value
+  Calculator_Expansion.vcxproj -> D:\kingp\visualStudio-workspace\Calculator_Expansion\Debug\Calculator_Expansion.exe

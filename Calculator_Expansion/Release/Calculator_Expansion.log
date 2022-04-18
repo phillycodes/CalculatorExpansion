@@ -1,0 +1,39 @@
+﻿  Calculator_Functions.c
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(103,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(102,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(118,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(117,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(140,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(139,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(148,9): warning C4101: 'result': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(147,6): warning C4101: 'i': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(197,13): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(211,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(212,32): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(212,25): warning C4024: 'CalculateDifference': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(219,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(220,36): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(220,29): warning C4024: 'CalculateMultiplication': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(227,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(228,30): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(228,23): warning C4024: 'CalculateDivision': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(235,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(236,29): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(236,22): warning C4024: 'CalculateAverage': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(243,29): warning C4047: '==': 'bool *' differs in levels of indirection from 'int'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(244,29): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(244,22): warning C4024: 'getGreatestValue': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(251,31): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(251,24): warning C4024: 'DetermineValueState': different types for formal and actual parameter 1
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(310,35): warning C4047: 'function': 'double **' differs in levels of indirection from 'double *(*)[3]'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(310,27): warning C4024: 'ProcessMenu': different types for formal and actual parameter 2
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(310,51): warning C4047: 'function': 'bool *' differs in levels of indirection from 'bool **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(310,37): warning C4024: 'ProcessMenu': different types for formal and actual parameter 3
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(288,9): warning C4101: 'count': unreferenced local variable
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(288,6): warning C4101: 'i': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(128): warning C4716: 'CalculateDivision': must return a value
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Calculator_Expansion.vcxproj -> D:\kingp\visualStudio-workspace\Calculator_Expansion\Release\Calculator_Expansion.exe

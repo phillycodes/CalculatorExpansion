@@ -1,0 +1,9 @@
+﻿  Calculator_Functions.c
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(423,35): warning C4047: 'function': 'float *' differs in levels of indirection from 'float (*)[3]'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(423,27): warning C4024: 'ProcessMenu': different types for formal and actual parameter 2
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(423,51): warning C4047: 'function': 'bool *' differs in levels of indirection from 'bool **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(423,37): warning C4024: 'ProcessMenu': different types for formal and actual parameter 3
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(423,60): warning C4047: 'function': 'float *' differs in levels of indirection from 'float **'
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(423,53): warning C4024: 'ProcessMenu': different types for formal and actual parameter 4
+D:\kingp\visualStudio-workspace\Calculator_Expansion\Calculator_Expansion\Calculator_Functions.c(414,6): warning C4101: 'i': unreferenced local variable
+  Calculator_Expansion.vcxproj -> D:\kingp\visualStudio-workspace\Calculator_Expansion\x64\Debug\Calculator_Expansion.exe
